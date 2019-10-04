@@ -16,7 +16,7 @@ STEP 7 MicroWIN version 4.0 SP8-SP9
 Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details
+GNU General Public License v3.0
 
 ### Donate
 You can thank me by a voluntary donation. https://nvjob.pro/donations.html

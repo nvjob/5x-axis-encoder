@@ -4,7 +4,9 @@ Test of the old Simatic S7-200 PLC, working with the fast encoder, OPC PC Access
 
 ### Prerequisites
 
-Simple-Scada version 1.3.3 demo. SIMATIC S7-200, PC Access V1.0 SP5.
+Simple-Scada version 1.3.3 demo.
+SIMATIC S7-200, PC Access V1.0 SP5.
+STEP 7 MicroWIN version 4.0 SP8-SP9
 
 ------------------------------------
 

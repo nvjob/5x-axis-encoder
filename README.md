@@ -1,0 +1,18 @@
+# S7-200 + Fast Encoder + Simple-Scada
+
+Test of the old Simatic S7-200 PLC, working with the fast encoder, OPC PC Access OE and Simple-Scada.
+
+### Prerequisites
+
+Simple-Scada version 1.3.3 demo. SIMATIC S7-200, PC Access V1.0 SP5.
+
+------------------------------------
+
+### Authors
+Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details
+
+### Donate
+You can thank me by a voluntary donation. https://nvjob.pro/donations.html

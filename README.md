@@ -1,4 +1,4 @@
-# S7-200 + Fast Encoder + Simple-Scada
+# Siemens Simatic s7-200 + Fast Encoder + Simple-Scada
 
 Test of the old Simatic S7-200 PLC, working with the fast encoder, OPC PC Access OE and Simple-Scada.
 

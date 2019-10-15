@@ -10,13 +10,13 @@ Simple-Scada version 1.3.3 demo.<br>
 SIMATIC S7-200, PC Access V1.0 SP5.<br>
 STEP 7 MicroWIN version 4.0 SP8-SP9
 
-------------------------------------
+-------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-GNU General Public License v3.0
+GNU General Public License v3.0 https://github.com/nvjob/5x-axis-encoder/blob/master/LICENSE
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.pro/donations.html
+Help for this project - https://nvjob.github.io/donate

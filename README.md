@@ -16,7 +16,7 @@ STEP 7 MicroWIN version 4.0 SP8-SP9
 Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-GNU General Public License v3.0 https://github.com/nvjob/5x-axis-encoder/blob/master/LICENSE
+GNU General Public License v3.0 - https://github.com/nvjob/5x-axis-encoder/blob/master/LICENSE
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate

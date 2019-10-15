@@ -7,7 +7,7 @@ https://nvjob.github.io/dlog/s7-200-encoder-simple-scada.html
 ### Prerequisites
 
 Simple-Scada version 1.3.3 demo.<br>
-SIMATIC S7-200, PC Access V1.0 SP5.<br>
+Siemens Simatic s7-200, PC Access V1.0 SP5.<br>
 STEP 7 MicroWIN version 4.0 SP8-SP9
 
 -------------------------------------------------------------------

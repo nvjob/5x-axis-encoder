@@ -2,7 +2,7 @@
 
 Test of the old Simatic S7-200 PLC, working with the fast encoder, OPC PC Access OE and Simple-Scada.
 
-http://nvjobz.pro/dlog/s7-200-encoder-simple-scada
+https://nvjob.github.io/dlog/s7-200-encoder-simple-scada.html
 
 ### Prerequisites
 

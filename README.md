@@ -12,13 +12,8 @@ STEP 7 MicroWIN version 4.0 SP8-SP9
 
 -------------------------------------------------------------------
 
-**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
-*You can become one of the patrons, or make a sponsorship donation.*
-
--------------------------------------------------------------------
-
 **Authors:** [#NVJOB. Developer Nicholas Veselov. Разработчик Николай Веселов. Санкт-Петербург.](https://nvjob.github.io)
 
 **License:** GNU GPL v3.0. Clarification of licenses - [nvjob.github.io/gnu-license](https://nvjob.github.io/gnu-license)
 
-**Support:** [Report a Problem](https://nvjob.github.io/reportaproblem/).
+**Sorry:** This project is currently frozen and cannot be supported or updated due to its complete non-profitability.

@@ -16,4 +16,5 @@ STEP 7 MicroWIN version 4.0 SP8-SP9
 
 **License:** GNU GPL v3.0. Clarification of licenses - [nvjob.github.io/gnu-license](https://nvjob.github.io/gnu-license)
 
-**Sorry:** This project is currently frozen and cannot be supported or updated due to its complete non-profitability.
+**🖤 Donate:** <br>
+[paypal.me/nvjob](https://paypal.me/nvjob)
